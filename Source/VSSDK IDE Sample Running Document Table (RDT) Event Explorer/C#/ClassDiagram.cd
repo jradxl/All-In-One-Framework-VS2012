@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyCompany.RdtEventExplorer.RdtEventControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CEAAIAAAkCAAAAAAAKCARAACCgSFAAkAAABNAAQIAFA=</HashCode>
+      <FileName>RdtEventControl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.RdtEventWindowPane">
+    <Position X="0.5" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAgAUAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>RDTEventWindowPane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.RdtEventExplorerPkg">
+    <Position X="16.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAABAAAAARAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>RdtEventExplorerPkg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.Package" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.PkgCmdIDList" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAIAAAACA=</HashCode>
+      <FileName>PkgCmdID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.GuidsList" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACCAAAAAAAAAAAAAAAEAAAAAAEEAAA=</HashCode>
+      <FileName>Guids.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.Resources" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAABkAAAAQAAAAAAAAABAAAIAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.WindowPane" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.ToolWindowPane" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.GenericEvent">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BQAAAAEAAAIQECBAAAAEAgBAhoAEYAAAQCAIAAFEAjA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.AttributeEvent" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.EventEx" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.LockEvent" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.LockEventEx" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.Options" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAQEACEEABCABQAgAAIAIEABAAAAARAAIQAAAEA=</HashCode>
+      <FileName>Helper\Options.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.RdtEventOptionsDialog" Collapsed="true">
+    <Position X="0.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RdtEventOptionsDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.VisualStudio.Shell.DialogPage" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.ShowEvent" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.UnlockEventEx" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCompany.RdtEventExplorer.WindowFrameEvent" Collapsed="true">
+    <Position X="13" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helper\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
